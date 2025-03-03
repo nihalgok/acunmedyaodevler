@@ -1,0 +1,15 @@
+Abstract Class (Soyut Sınıf):
+
+Soyut sınıflar, kalıtım yoluyla türetilen sınıfların ortak özelliklerini belirlemek için kullanılır.
+İçerisinde soyut (abstract) metotlar bulunabilir, bu metotlar alt sınıflar tarafından ezilmek (override) zorundadır.
+Doğrudan nesne oluşturulamaz, sadece miras alınarak kullanılabilir.
+Abstraction (Soyutlama):
+
+Gereksiz detayları gizleyerek sadece önemli özellikleri ön plana çıkarma işlemidir.
+Kullanıcıya yalnızca ihtiyacı olan bilgiyi sunar, arka plandaki karmaşıklığı saklar.
+Örneğin, bir araba sürerken motorun iç yapısını bilmeden sadece direksiyon ve pedalları kullanarak aracı kontrol edebilmemiz soyutlamaya bir örnektir.
+Polymorphism (Çok Biçimlilik):
+
+Aynı metot veya operatörün farklı şekillerde çalışmasını sağlar.
+Bir metodun farklı alt sınıflarda farklı biçimlerde uygulanabilmesine olanak tanır.
+Örneğin, bir "Çiz()" metodu farklı şekiller (daire, kare, üçgen) için farklı çizim işlemleri gerçekleştirebilir.
